@@ -1,14 +1,15 @@
 
 # Autores
-Alejandro Benítez 
+
+## AleBenítez 
 
 ![Ale](img/ale.png)
 
 
-Nacho Hernández
+## Nacho Hernández
 
 ![Nacho](img/nacho.png)
 
-Alberto Rodriguez
+## Alberto Rodriguez
 
 ![Alberto](img/alberto.png)
