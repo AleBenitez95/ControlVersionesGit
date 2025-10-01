@@ -4,6 +4,8 @@
 GitHub es una plataforma en la nube que permite almacenar proyectos de software y gestionarlos usando Git (un sistema de control de versiones).
 En otras palabras, es como una “nube para programadores” donde puedes guardar tu código, compartirlo, colaborar con otros y llevar un historial de cambios.
 
+![github](img/github.png)
+
 ## ¿Qué es un repositorio?
 
 Un repositorio (o repo) en GitHub es un espacio donde guardas tu proyecto.
