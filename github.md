@@ -12,7 +12,7 @@ Un repositorio (o repo) en GitHub es un espacio donde guardas tu proyecto.
 
 Piensa en el repositorio como una carpeta especial que además guarda el historial de todo lo que pasó en su interior.
 
-![repositorio](img/repositorio.jpg)
+![repositorio](img/repositorio.jpeg)
 
 ## Contenido típico de un repositorio
 
