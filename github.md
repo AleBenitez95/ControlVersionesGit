@@ -1,5 +1,5 @@
  # Repositorio: Github 
- ¿Qué es GitHub?
+ ## ¿Qué es GitHub?
 
 GitHub es una plataforma en la nube que permite almacenar proyectos de software y gestionarlos usando Git (un sistema de control de versiones).
 En otras palabras, es como una “nube para programadores” donde puedes guardar tu código, compartirlo, colaborar con otros y llevar un historial de cambios.
@@ -26,12 +26,12 @@ Código fuente (archivos .py, .js, .html, etc.)
 
 ## Ventajas de usar un repositorio
 
-Historial de cambios → puedes ver quién hizo qué y cuándo.
+**Historial de cambios** → puedes ver quién hizo qué y cuándo.
 
-Colaboración → varios programadores pueden trabajar juntos.
+**Colaboración**→ varios programadores pueden trabajar juntos.
 
-Seguridad → tu código está respaldado en la nube.
+**Seguridad** → tu código está respaldado en la nube.
 
-Control de versiones → puedes volver a un estado anterior si algo se rompe.
+**Control de versiones** → puedes volver a un estado anterior si algo se rompe.
 
-Open Source → puedes publicar proyectos para que cualquiera los use y mejore.
+**Open Source** → puedes publicar proyectos para que cualquiera los use y mejore.
