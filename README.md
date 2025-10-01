@@ -9,4 +9,4 @@
 
 ### Licencia Creative Commons
 
-![Lincecia](licencia.png)
+![Lincecia](img/licencia.png)
