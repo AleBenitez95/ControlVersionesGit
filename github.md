@@ -4,13 +4,15 @@
 GitHub es una plataforma en la nube que permite almacenar proyectos de software y gestionarlos usando Git (un sistema de control de versiones).
 En otras palabras, es como una “nube para programadores” donde puedes guardar tu código, compartirlo, colaborar con otros y llevar un historial de cambios.
 
-![github](img/github.png)
+![github](img/github.jpg)
 
 ## ¿Qué es un repositorio?
 
 Un repositorio (o repo) en GitHub es un espacio donde guardas tu proyecto.
 
 Piensa en el repositorio como una carpeta especial que además guarda el historial de todo lo que pasó en su interior.
+
+![repositorio](img/repositorio.jpg)
 
 ## Contenido típico de un repositorio
 
@@ -26,6 +28,8 @@ Código fuente (archivos .py, .js, .html, etc.)
 
 **Historial de commits** → cada cambio que se hizo en el proyecto.
 
+![licencia](img/licencia.jpg)
+
 ## Ventajas de usar un repositorio
 
 **Historial de cambios** → puedes ver quién hizo qué y cuándo.
@@ -37,3 +41,5 @@ Código fuente (archivos .py, .js, .html, etc.)
 **Control de versiones** → puedes volver a un estado anterior si algo se rompe.
 
 **Open Source** → puedes publicar proyectos para que cualquiera los use y mejore.
+
+![ventajas](img/ventajas.jpg)
