@@ -6,3 +6,7 @@
 ## [5.-Conceptos básicos Git/Github](github.md)
 ## .-Referencias:
 ## [.-Autores:](autores.md)
+
+### Licencia Creative Commons
+
+![Lincecia](licencia.png)
