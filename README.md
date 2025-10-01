@@ -3,9 +3,6 @@
 ## 2.-Sistemas de control de versiones: Git
 ## 3.-Lenguajes de marcas: Markdown
 ## 4.-Repositorio: Github
-## 5.-[Conceptos básicos Git/Github](github.md)
+## [5.-Conceptos básicos Git/Github](github.md)
 ## .-Referencias:
-## .-[Autores:](autores.md)
-### - Ignacio Hernández Morillo
-### - Alberto
-### - Alejandro Benitez
+## [.-Autores:](autores.md)
